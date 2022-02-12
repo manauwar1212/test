@@ -1,2 +1,7 @@
 Hi My Name is Manauwar Zulfekar Ansari
+<<<<<<< HEAD
 Hello Again
+=======
+Hello
+Hello
+>>>>>>> 47326dca9ba7bb24ad7a2be2fe054e412414eae8
